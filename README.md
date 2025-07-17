@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Haley Solin.
+I'm a high school student
+
+### Experience:
+- Java
+- C++
+
+## Projects:
 
 <!--
 **haleysolin/haleysolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
