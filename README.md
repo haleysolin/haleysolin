@@ -6,7 +6,10 @@ I'm a high school student
 - C++
 
 ## Projects:
-
+|[Slime Frenzy](https://github.com/haleysolin/SlimeFrenzy)|
+| :---: |
+|<img width="1251" height="761" alt="Screenshot 2025-07-17 142306" src="https://github.com/user-attachments/assets/625a0fc5-4c12-45a3-90da-dbd7579cc284" />
+|Top-down game made with C++|
 <!--
 **haleysolin/haleysolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
