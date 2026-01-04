@@ -4,6 +4,7 @@ I'm a high school student
 ### Experience:
 - Java
 - C++
+- C#
 
 ## Projects:
 |[Slime Frenzy](https://github.com/haleysolin/SlimeFrenzy)|
